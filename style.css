@@ -1,0 +1,21 @@
+.original{
+    border : 1px dotted white;
+    background-color: black;
+    width: 30px;    
+    height: 23px;
+    text-align: center;
+    color: white;
+    padding-top: 3px;
+    border-radius: 3px;
+}
+.orriginal{
+    background-color:white ;
+    width: 15%;
+    height: auto;
+    text-align: center;
+    border-radius: 3px;
+}
+html{
+    background-color: black;
+}
+
